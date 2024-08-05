@@ -23,18 +23,18 @@ The Personal Finance Management System is a Kotlin-based console application des
    ```bash
    git clone https://github.com/Jolama-code/personal_finance_and_management_system.git
    cd personal_finance_and_management_system
-2. **Open the project:
+2. Open the project:
 
 Launch your preferred IDE (e.g., IntelliJ IDEA).
 Import the project or open it directly if the IDE supports it.
 
-3.**Configure the project:
+3.Configure the project:
 
 Ensure that your IDE is set to use Kotlin 1.9.20 and Java 21.0.4.
 If necessary, adjust the project settings to match these versions.
 
 
-4. **Running the Application
+4. Running the Application
 
 From the IDE:
 Locate the main.kt file within your src directory.
@@ -42,7 +42,7 @@ Right-click on the file and select Run 'main' or use the Run configuration.
 From the Command Line:
 
 
-5. **Key Components
+5. Key Components
 main.kt: The entry point of the application where the main function resides.
 UserManager.kt: Manages user registration and account details.
 IncomeManager.kt: Handles income recording and tracking.
